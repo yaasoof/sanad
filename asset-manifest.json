@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sanad/static/css/main.e6c13ad2.css",
-    "main.js": "/sanad/static/js/main.47a59840.js",
+    "main.js": "/sanad/static/js/main.9b0c9a77.js",
     "static/js/453.d5f14fe0.chunk.js": "/sanad/static/js/453.d5f14fe0.chunk.js",
     "index.html": "/sanad/index.html",
     "main.e6c13ad2.css.map": "/sanad/static/css/main.e6c13ad2.css.map",
-    "main.47a59840.js.map": "/sanad/static/js/main.47a59840.js.map",
+    "main.9b0c9a77.js.map": "/sanad/static/js/main.9b0c9a77.js.map",
     "453.d5f14fe0.chunk.js.map": "/sanad/static/js/453.d5f14fe0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.47a59840.js"
+    "static/js/main.9b0c9a77.js"
   ]
 }
